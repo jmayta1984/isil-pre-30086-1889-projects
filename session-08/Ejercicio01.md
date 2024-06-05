@@ -4,28 +4,27 @@
 
 Se tiene un conjunto de atletas que van a participar en una carrera de 400 metros en un evento deportivo. A continuación, los 20 atletas que participarán. Se muestra el número de su camiseta, su nombre y su **mejor marca personal al 31 de diciembre del 2023**.
 
-|Camiseta - Nombre – Marca|
-| :- |
-|116 - Van Niekerk – 42.99|
-|207 - Taylor – 43.55|
-|299 - Johnson – 43.25|
-|117 - Thebe – 43.58|
-|288 - Reynolds – 43.79|
-|216 - Cedenio – 44.15|
-|107 - Wariner – 44.76|
-|168 - James – 44.00|
-|119 - Norman – 43.76|
-|118 - Bloomfield – 44.01|
-|219 - Gardiner – 43.87|
-|115 - McDonald – 43.90|
-|292 - Watts – 43.76|
-|188 - Lewis – 43.80|
-|217 - Kerley – 43.53|
-|268 - Evans – 43.66|
-|216 - Merritt – 43.54|
-|192 - Everett – 43.77|
-|215 - Makwala – 43.70|
-|120 - Masrahi – 43.86|
+|116|- Van Niekerk – 42.99|
+| :-: | :- |
+|207|- Taylor – 43.55|
+|299|- Johnson – 43.25|
+|117|- Thebe – 43.58|
+|288|- Reynolds – 43.79|
+|216|- Cedenio – 44.15|
+|107|- Wariner – 44.76|
+|168|- James – 44.00|
+|119|- Norman – 43.76|
+|118|- Bloomfield – 44.01|
+|219|- Gardiner – 43.87|
+|115|- McDonald – 43.90|
+|292|- Watts – 43.76|
+|188|- Lewis – 43.80|
+|217|- Kerley – 43.53|
+|268|- Evans – 43.66|
+|216|- Merritt – 43.54|
+|192|- Everett – 43.77|
+|215|- Makwala – 43.70|
+|120|- Masrahi – 43.86|
 
 Cada uno de los atletas participará en una prueba de clasificación para seleccionar a los 8 que participarán en la gran final.
 
