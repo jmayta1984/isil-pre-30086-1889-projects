@@ -6,7 +6,7 @@ Se tiene un conjunto de atletas que van a participar en una carrera de 400 metro
 
 |Camiseta - Nombre – Marca|
 | :- |
-|116- Van Niekerk – 42.99|
+|116 - Van Niekerk – 42.99|
 |207 - Taylor – 43.55|
 |299 - Johnson – 43.25|
 |117 - Thebe – 43.58|
