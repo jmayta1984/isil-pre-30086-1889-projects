@@ -4,8 +4,9 @@
 
 Se tiene un conjunto de atletas que van a participar en una carrera de 400 metros en un evento deportivo. A continuación, los 20 atletas que participarán. Se muestra el número de su camiseta, su nombre y su **mejor marca personal al 31 de diciembre del 2023**.
 
-|116- Van Niekerk – 42.99|
+|Camiseta - Nombre – Marca|
 | :- |
+|116- Van Niekerk – 42.99|
 |207 - Taylor – 43.55|
 |299 - Johnson – 43.25|
 |117 - Thebe – 43.58|
