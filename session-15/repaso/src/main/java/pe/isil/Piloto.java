@@ -56,7 +56,7 @@ public class Piloto {
     }
 
     public void mostrarInfo() {
-        System.out.println(nombre + " " + apellido);
+        System.out.println("Piloto: " + nombre + " " + apellido);
         escuderia.mostrarInfo();
     }
 

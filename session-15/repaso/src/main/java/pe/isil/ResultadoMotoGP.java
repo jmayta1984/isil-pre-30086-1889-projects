@@ -5,7 +5,7 @@ public class ResultadoMotoGP extends Resultado {
     private int puestoPrincipal;
     private int puntos;
 
-    public ResultadoMotoGP(Carrera carrera, Piloto piloto, int puestoSprint, int puestoPrincipal, int puntos) {
+    public ResultadoMotoGP(Carrera carrera, Piloto piloto, int puestoSprint, int puestoPrincipal) {
         super(carrera, piloto);
         this.puestoSprint = puestoSprint;
         this.puestoPrincipal = puestoPrincipal;
