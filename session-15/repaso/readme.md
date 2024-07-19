@@ -1,5 +1,3 @@
-﻿**EJERCICIO ![](001.png)![](002.png)**
-
 **EJERCICIO REPASO                      DESARROLLO DE APLICACIONES MÓVILES 2024-10** 
 
 1. **CASO A RESOLVER** 
