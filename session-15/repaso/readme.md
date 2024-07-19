@@ -4,7 +4,7 @@
 
    Se desea una aplicación que permita gestionar los resultados de las carreras de autos **Fórmula 1 (F1)** y de las carreras de motocicletas **MotoGP (GP)**. Las especificaciones son las siguientes: 
 
--- De cada carrera se conoce: código de la carrera, nombre de la carrera, temporada en la que se corrió, nombre del circuito, ciudad de ubicación del circuito, y país de ubicación del circuito. A continuación se muestran los datos de algunas carreras: 
+ - De cada carrera se conoce: código de la carrera, nombre de la carrera, temporada en la que se corrió, nombre del circuito, ciudad de ubicación del circuito, y país de ubicación del circuito. A continuación se muestran los datos de algunas carreras: 
 
   "F1-0001", "Gran Premio de Bahrein", 2024, "Circuito Internacional de Barein", "Sakhir", "Bahrein" 
   "F1-0002", "Gran Premio de Arabia Saudita", 2024, "Jeddah Corniche Circuit", "Jeddah", "Arabia Saudita" 
