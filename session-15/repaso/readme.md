@@ -1,6 +1,6 @@
 # Repaso
 
-1. **CASO A RESOLVER** 
+1. **Caso** 
 
    Se desea una aplicación que permita gestionar los resultados de las carreras de autos **Fórmula 1 (F1)** y de las carreras de motocicletas **MotoGP (GP)**. Las especificaciones son las siguientes: 
 
