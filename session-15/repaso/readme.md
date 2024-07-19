@@ -12,7 +12,7 @@
 
   "GP-1001", "Gran Premio de Catar", 2024, "Lusail International Circuit", "Doha", "Catar" 
 
-   - En una carrera participan vehículos de distintas marcas. De cada marca se conoce: código de la marca, nombre de la marca, país al que pertenece la marca. Aquí algunos ejemplos de marcas: 
+- En una carrera participan vehículos de distintas marcas. De cada marca se conoce: código de la marca, nombre de la marca, país al que pertenece la marca. Aquí algunos ejemplos de marcas: 
 
    1, "Ferrari", "Italia" 
    2, "Red Bull", "Austria" 
