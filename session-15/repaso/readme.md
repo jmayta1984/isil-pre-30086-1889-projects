@@ -1,6 +1,6 @@
 # Repaso
 
-1. **Caso** 
+## **Caso** 
 
    Se desea una aplicación que permita gestionar los resultados de las carreras de autos **Fórmula 1 (F1)** y de las carreras de motocicletas **MotoGP (GP)**. Las especificaciones son las siguientes: 
 
@@ -69,10 +69,9 @@
    Puesto Sprint: 3 
    Puntos: 32 
 
-2. **Funcionalidad del proyecto** 
+## **Funcionalidad del proyecto** 
 - El proyecto debe aplicar herencia y sobreescritura de métodos. También puede aplicar sobrecarga de métodos, si lo considera necesario. 
 - El proyecto debe mostrar en la salida por consola: 
 - El resultado de un piloto en una carrera de la **Fórmula 1 (use los datos del ejemplo mostrado arriba)**. 
 - El resultado de un piloto en una carrera de la **MotoGP (use los datos del ejemplo mostrado arriba)**. 
-- **El proyecto no debe mostrar** lista de carreras, tampoco lista de pilotos, ni lista de marcas. Solo debe mostrar lo solicitado en el punto anterior. 
-3** de 3**
+- **El proyecto no debe mostrar** lista de carreras, tampoco lista de pilotos, ni lista de marcas. Solo debe mostrar lo solicitado en el punto anterior.
