@@ -1,8 +1,8 @@
 # Repaso
 
-1. **Caso** 
+## Caso
 
-   Se desea una aplicación que permita gestionar los resultados de las carreras de autos **Fórmula 1 (F1)** y de las carreras de motocicletas **MotoGP (GP)**. Las especificaciones son las siguientes: 
+Se desea una aplicación que permita gestionar los resultados de las carreras de autos **Fórmula 1 (F1)** y de las carreras de motocicletas **MotoGP (GP)**. Las especificaciones son las siguientes: 
 
 - De cada carrera se conoce: código de la carrera, nombre de la carrera, temporada en la que se corrió, nombre del circuito, ciudad de ubicación del circuito, y país de ubicación del circuito. A continuación se muestran los datos de algunas carreras: 
 
@@ -27,9 +27,9 @@
 - Cuando se muestra el resultado de un piloto en una carrera de la **Fórmula 1**, se desea mostrar los siguientes datos: nombre de la carrera, temporada de la carrera, nombre del circuito, ciudad y país del circuito, nombre y apellido del piloto, país del piloto, marca del auto que condujo, país de la marca, puesto que ocupó al final de la carrera, puntos obtenidos. 
 - En las carreras de la **Fórmula 1** se otorgan puntos a los puestos del 1 al 10 según la siguiente escala: 
 
-|**Puesto** |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |
-| - | - | - | - | - | - | - | - | - | - | - |
-|**Puntos** |25 |18 |15 |12 |10 |8 |6 |4 |2 |1 |
+   |**Puesto** |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |
+   | - | - | - | - | - | - | - | - | - | - | - |
+   |**Puntos** |25 |18 |15 |12 |10 |8 |6 |4 |2 |1 |
 
 - Un ejemplo de cómo se desea mostrar el resultado de un piloto en una carrera de la **Fórmula 1** es el siguiente: 
 
@@ -46,15 +46,15 @@
 - En las competencias de **MotoGP** se corren 2 carreras: el sábado se corre la **carrera Sprint**, y al día siguiente se corre la **carrera principal**. En la **carrera Sprint** el número de vueltas que debe completar el piloto es la mitad de la cantidad de vueltas que debe completar en la **carrera principal**. 
 - En la **carrera Sprint** se otorga el puntaje usando la siguiente escala: 
 
-|**Puesto** |1 |2 |3 |4 |5 |6 |7 |8 |9 |
-| - | - | - | - | - | - | - | - | - | - |
-|**Puntos** |12 |9 |7 |6 |5 |4 |3 |2 |1 |
+   |**Puesto** |1 |2 |3 |4 |5 |6 |7 |8 |9 |
+   | - | - | - | - | - | - | - | - | - | - |
+   |**Puntos** |12 |9 |7 |6 |5 |4 |3 |2 |1 |
 
 - En la **carrera principal** se otorga el puntaje usando la escala siguiente: 
 
-|**Puesto** |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |
-| - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
-|**Puntos** |25 |20 |16 |13 |11 |10 |9 |8 |7 |6 |5 |4 |3 |2 |1 |
+   |**Puesto** |1 |2 |3 |4 |5 |6 |7 |8 |9 |10 |11 |12 |13 |14 |15 |
+   | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
+   |**Puntos** |25 |20 |16 |13 |11 |10 |9 |8 |7 |6 |5 |4 |3 |2 |1 |
 
 - Cuando se muestra el resultado de un piloto en una carrera de la **MotoGP**, se desea mostrar los siguientes datos: nombre de la carrera, temporada de la carrera, nombre del circuito, ciudad y país del circuito, nombre y apellido del piloto, país del piloto, marca de la motocicleta que condujo, país de la marca, puesto que ocupó al final de la **carrera principal**, puesto que ocupó al final de la **carrera Sprint**, puntos obtenidos. 
 - Un ejemplo de cómo se desea mostrar el resultado de un piloto en una carrera de la **MotoGP** es el siguiente: 
