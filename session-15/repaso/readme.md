@@ -7,7 +7,9 @@
 - De cada carrera se conoce: código de la carrera, nombre de la carrera, temporada en la que se corrió, nombre del circuito, ciudad de ubicación del circuito, y país de ubicación del circuito. A continuación se muestran los datos de algunas carreras: 
 
   "F1-0001", "Gran Premio de Bahrein", 2024, "Circuito Internacional de Barein", "Sakhir", "Bahrein"
+  
   "F1-0002", "Gran Premio de Arabia Saudita", 2024, "Jeddah Corniche Circuit", "Jeddah", "Arabia Saudita" 
+
   "GP-1001", "Gran Premio de Catar", 2024, "Lusail International Circuit", "Doha", "Catar" 
 
    - En una carrera participan vehículos de distintas marcas. De cada marca se conoce: código de la marca, nombre de la marca, país al que pertenece la marca. Aquí algunos ejemplos de marcas: 
